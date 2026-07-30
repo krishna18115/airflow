@@ -1,0 +1,7 @@
+Source Field,Source Data Type,Target Table,Target Field,Target Data Type,
+product_id,INTEGER,products,product_id,INTEGER,
+product_name,STRING,products,product_name,STRING,
+category,STRING,products,category,STRING,
+price,FLOAT,products,price,FLOAT,
+,,products,load_TS,TimeStamp,
+,,products,Team_id,INTEGER,

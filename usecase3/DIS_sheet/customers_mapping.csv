@@ -1,0 +1,9 @@
+Source Field,Source Data Type,Target Table,Target Field,Target Data Type
+customer_id,INTEGER,customers,customer_id,INTEGER
+customer_name,STRING,customers,customer_name,STRING
+email,STRING,customers,email,STRING
+phone,STRING,customers,phone,STRING
+address,STRING,customers,address,STRING
+join_date,DATE,customers,join_date,DATE
+,,customers,load_TS,TimeStamp
+,,customers,Team_id,INTEGER
