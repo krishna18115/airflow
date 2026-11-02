@@ -1,0 +1,8 @@
+Source Field,Source Data Type,Target Table,Target Field,Target Data Type
+transaction_id,INTEGER,sales_transactions,transaction_id,INTEGER
+product_id,INTEGER,sales_transactions,product_id,INTEGER
+store_id,INTEGER,sales_transactions,store_id,INTEGER
+customer_id,INTEGER,sales_transactions,customer_id,INTEGER
+quantity,INTEGER,sales_transactions,quantity,INTEGER
+sale_date,DATE,sales_transactions,sale_date,DATE
+sale_amount,FLOAT,sales_transactions,sale_amount,FLOAT

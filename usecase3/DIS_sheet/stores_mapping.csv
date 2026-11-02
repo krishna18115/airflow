@@ -1,0 +1,5 @@
+Source Field,Source Data Type,Target Table,Target Field,Target Data Type
+store_id,INTEGER,stores,store_id,INTEGER
+store_name,STRING,stores,store_name,STRING
+location,STRING,stores,location,STRING
+store_type,STRING,stores,store_type,STRING
